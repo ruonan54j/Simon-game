@@ -1,8 +1,6 @@
 /*
 Name:				Nancy (Ruonan) Jia
 Date:				2016-12-02
-Student Number:		33550161
-UBC email:			r.jia@alumni.ubc.ca
 bonus assignment:	Simon Game
 */
 
